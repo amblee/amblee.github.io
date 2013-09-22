@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://eggfry.github.io
+title: Eggfry
+subtitle: Eggfry, we create various handy apps.
+author: Team Eggfry
 simple_search: http://google.com/search
 description:
 
