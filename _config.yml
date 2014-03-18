@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://eggfry.github.io
-title: Eggfry
-subtitle: Eggfry, we create various handy apps.
-author: Team Eggfry
+url: http://eggfri.github.io
+title: team eggfri
+subtitle: Eggfri, we create various handy apps.
+author: team tggfry
 simple_search: http://google.com/search
 description:
 
@@ -17,7 +17,7 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: joyeon@me.com
 # RSS feeds can list your email address if you like
 email:
 
@@ -97,4 +97,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
