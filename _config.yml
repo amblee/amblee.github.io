@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://eggfri.github.io
-title: team eggfri
-subtitle: Eggfri, we create various handy apps.
-author: team tggfry
+url: http://amblee.github.io
+title: amblee squad
+subtitle:
+author: amblee
 simple_search: http://google.com/search
 description:
 
@@ -17,7 +17,7 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email: joyeon@me.com
+subscribe_email: admin@amblee.so
 # RSS feeds can list your email address if you like
 email:
 
