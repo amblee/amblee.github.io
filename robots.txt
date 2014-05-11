@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://eggfri.github.io/sitemap.xml 
+Sitemap: http://amblee.github.io/sitemap.xml 
